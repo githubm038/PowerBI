@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: PowerBI
+pool: PowerBI-POC
 
 steps:
 - script: echo Hello, world!
