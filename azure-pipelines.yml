@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: PowerBI
+pool: PowerBI
 
 steps:
 - script: echo Hello, world!
