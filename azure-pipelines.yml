@@ -1,7 +1,7 @@
 trigger:
 - main
 
-pool: PowerBI-POC
+pool: Agent-pool
 
 steps:
 - task: CopyFiles@2
